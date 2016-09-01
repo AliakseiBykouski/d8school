@@ -1,0 +1,4 @@
+lesson3.currencies:
+  title: 'List currencies'
+  description: 'Shows all currencies available'
+  route_name: lesson3.currencies

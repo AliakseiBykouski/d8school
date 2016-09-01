@@ -1,0 +1,6 @@
+name: Hello, World!
+description: This is my first Drupal 8 module.
+type: module
+core: 8.x
+version: 1.0-dev
+package: Drupal School

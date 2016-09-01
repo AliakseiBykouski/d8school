@@ -1,0 +1,6 @@
+name: Lesson 3
+description: Homework for lesson 3.
+type: module
+core: 8.x
+version: 1.0-dev
+package: Drupal School
